@@ -11,7 +11,8 @@
 .nav-wrap{
 	position: relative;
 	margin: auto;
-	width: 1180px;}
+	padding: 0 16px;
+	width: 1200px;}
 
 .nav-logo{
 	position: relative;

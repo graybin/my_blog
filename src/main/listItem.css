@@ -11,6 +11,7 @@
 	line-height: 32px;
 	font-size: 18px;
 	color: #000;
+	cursor: pointer;
 	background-image: url(../img/blog.svg);
 	background-size: 25px 25px;
 	background-position: 0 6px;
@@ -33,6 +34,7 @@
 
 .item-info .type{
 	padding-left: 24px;
+	cursor: pointer;
 	background-image: url(../img/type.svg);
 	background-size: 14px 14px;
 	background-position: 5px 5px;

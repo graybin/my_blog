@@ -1,0 +1,27 @@
+.toggle-bar{
+	padding:  32px 0;
+	overflow: hidden;}
+
+.toggle-bar-wrap{
+	position: relative;
+	display: inline-block;	
+	left: 50%;
+	transform: translateX(-50%);}
+
+.toggle-bar-wrap span{
+	display: inline-block;
+	margin-left: 12px;
+	height: 32px;
+	width: 32px;
+	border: 1px solid #e1e2e3;
+	text-align: center;
+	line-height: 32px;
+    cursor: pointer;	}
+
+.toggle-bar-wrap span:first-child{
+	width: 60px;	
+}
+
+.toggle-bar-wrap span:last-child{
+	width: 60px;	
+}
